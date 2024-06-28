@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1719617095 source:d:\lab 2\finales\proyecto final laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"time.h"
+
+1719617186 d:\lab 2\finales\proyecto final laboratorio 1\pila.h
+	<stdio.h>
+	<malloc.h>
+
